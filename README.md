@@ -1,1 +1,3 @@
 # Women_Entrepreneurship_Meetup_Data_Analysis
+## Summary :
+For This Data Analysis Task. We are Provided With The Recent Dataset Of Women Entrepreneurship Meetup Conducted By MKR And Our Task is To Clean, Analyze and Visualize This Datset Based on the responses given by the participants to find useful insights.So, Before Visualizng This Dataset On Tableau It Needs To Be cleaned First. I use Python For Cleaning The Dataset. First I cleaned This Dataset, Performed Some Basic NLP Techniques For Sentimental Analsyis On Womens Responses and Created Some Additional Cloumns Based On The Given Data That Can Help In Deriving Useful Insights From This Dataset and Then Export The Final Cleaned Dataset into an Excel File Which I later Use To Visualize This Dataset On Tableau.
