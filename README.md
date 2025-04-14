@@ -19,9 +19,10 @@ Before visualizing the data in <b>Tableau</b>, it first needed to be cleaned. I 
 
 <h3>📊 Data Visualization</h3>
 <ul>
-  <li>Designed interactive dashboards in <b>Tableau</b> to highlight participant sentiments, trends, and key takeaways from the event.</li>
+  <li>Designed interactive dashboards in <b><a href="https://public.tableau.com/views/Womens_Entreprenuers_Meetup/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau</a></b> to highlight participant sentiments, trends, and key takeaways from the event.</li>
   <li>Visualized insights into participant sentiments, event engagement, and feedback trends.</li>
 </ul>
+
 
 <h3>💡 Key Objectives</h3>
 <ul>
